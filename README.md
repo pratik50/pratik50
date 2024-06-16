@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/pratik-jadhav-44005a253/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/invite/___pratik" target="_blank">
+  <a href="https://discordapp.com/users/1022392296102174740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -74,7 +74,7 @@
   <a href="https://www.instagram.com/j_pratik99/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/invite/___pratik" target="_blank">
+  <a href="https://discordapp.com/users/1022392296102174740" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://stackoverflow.com/users/20058872/j-pratik99" target="_blank">
