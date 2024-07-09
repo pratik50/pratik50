@@ -1,11 +1,8 @@
 <div align="center">
-  <img height="150" src="https://github.com/pratik50/pratik50/assets/92214381/a092bf5a-3271-482a-aa84-0e486ba28b33"  />
+  <img height="150" src="https://github.com/pratik50/pratik50/assets/92214381/0d055674-84f0-476c-85d0-a6c97b3f1043"  />
+
+  
 </div>
-
-
-
-
-
 
 ###
 
