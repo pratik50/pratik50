@@ -83,7 +83,7 @@
   <a href="https://www.linkedin.com/in/pratik-jadhav-44005a253/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="Linkeden logo" />
   </a>
-  <a href="https://www.instagram.com/j_pratik99/" target="_blank">
+  <a href="https://www.instagram.com/_ppratt__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/1022392296102174740" target="_blank">
