@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">A Passionate Competitive programmer from India 🇮🇳 </h3>
+<h3 align="left">A Passionate Software Engineer from India 🇮🇳 </h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android Development<br>🎯 Goals: Master Competitive Coding, Android and earn in dollar 💰<br>🎧 And..."Music fuels my coding passion,... vice versa. 💥"</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android Development<br>🎯 Goals: Master Coding, Android, and Embrace Life’s Adventure 💻🌟<br>🎧 And..."Music fuels my coding passion,... vice versa. 💥"</p>
 
 ###
 
