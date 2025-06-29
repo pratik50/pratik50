@@ -96,14 +96,7 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik50&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik50&size_weight=0&count_weight=0.5)-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
