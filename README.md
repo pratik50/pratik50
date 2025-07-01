@@ -44,7 +44,7 @@
 <p align="centre">
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,materialui,androidstudio,gradle,vscode,ts,js,express,nodejs,html,css,tailwind,aws,firebase,mongodb,postgres,prisma,nginx,redis,githubactions,bash,vim,neovim,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,materialui,androidstudio,gradle,vscode,ts,js,express,nodejs,html,css,tailwind,aws,firebase,mongodb,postgres,prisma,nginx,redis,githubactions,bash,vim,neovim,git,github,postman&perline=14" />
   </a>
 
   <div style="display: inline-block;">
