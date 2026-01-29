@@ -33,7 +33,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Android Development<br>🎯 Goals: Master Coding, Android, and Embrace Life’s Adventure 💻🌟<br>🎧 And..."Music fuels my coding passion,... vice versa. 💥"</p>
+<p align="left">
+💻 Backend & Android Developer.<br>
+🏷️ Kotlin • Node.js • TypeScript • AWS • Docker<br>
+🤖 Building scalable, real-world applications.<br>
+🎧 And..."Music fuels my coding passion,... vice versa. 
+</p>
 
 ###
 
@@ -44,7 +49,7 @@
 <p align="centre">
   <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,materialui,androidstudio,gradle,vscode,ts,js,express,nodejs,html,css,tailwind,aws,firebase,mongodb,postgres,prisma,nginx,redis,githubactions,bash,vim,neovim,git,github,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,materialui,androidstudio,gradle,vscode,ts,js,express,nodejs,html,aws,docker,linux,firebase,mongodb,postgres,prisma,nginx,redis,githubactions,bash,vim,neovim,git,github,postman&perline=14" />
   </a>
 
   <div style="display: inline-block;">
