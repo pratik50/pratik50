@@ -1,93 +1,49 @@
 <div align="center">
-  <img height="150" src="https://github.com/pratik50/pratik50/assets/92214381/0d055674-84f0-476c-85d0-a6c97b3f1043"  />
-
-  
+  <img width="1280" height="315" alt="Git_hub banner-Photoroom" src="https://github.com/user-attachments/assets/771f22b3-ebb0-421e-9379-aafef5cc7605" />
 </div>
 
-###
+<h1 align="center">Hey 👋 I'm Pratik</h1>
+<h3 align="center">Backend Engineer • DevOps Enthusiast • System Design Learner</h3>
+
+<br>
+
+### 🧠 About Me
+
+- 🧑‍💻 Software Engineer from India 🇮🇳
+- ☁️ Obsessed with scalable systems, clean architecture & DevOps <br>
+- 🔧 Building backends & pipelines that don't break at 3am 
+- 🎧 And..."Music fuels my coding passion,... vice versa.  
+
+<br>
+
+### 💻 Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pratik-jadhav-44005a253/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1022392296102174740" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,postgres,mongodb,redis,docker,nginx,linux,githubactions,bash,aws,kotlin,androidstudio,gradle,firebase,c,cpp,html,materialui,git,github,vscode,postman,vim,neovim&perline=14" />
 </div>
 
-###
+<br>
 
-<h1 align="center"> Hey, What's up?✌️ Pratik here </h1>
+### 📌 Currently
 
-###
+- Building production-ready full-stack systems  
+- Improving system design & distributed architecture knowledge  
+- Exploring advanced DevOps workflows
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik50&label=Profile%20views&color=0e75b6&style=flat" alt="pratik50" /> </p>
+<br>
 
-###
+### 🌍 Connect With Me
 
-<h3 align="left">A Passionate Software Engineer from India 🇮🇳 </h3>
+<div align="center">
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-jadhav-44005a253/) 
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/j_pratik99) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://instagram.com/_ppratt__)
 
-<h3 align="left">🧑🏻‍💻 About Me:</h3>
+</div>
 
-###
+<h1></h1>
 
-<p align="left">
-💻 Backend & Android Developer.<br>
-🏷️ Kotlin • Node.js • TypeScript • AWS • Docker<br>
-🤖 Building scalable, real-world applications.<br>
-🎧 And..."Music fuels my coding passion,... vice versa. 
+<p align="center">
+  <i>Build things that scale. Automate what repeats.</i>
 </p>
-
-###
-
-<h3 align="left">💻 Tech Stack:</h3>
-
-###
-
-<p align="centre">
-  <!-- Programming Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,materialui,androidstudio,gradle,vscode,ts,js,express,nodejs,html,aws,docker,linux,firebase,mongodb,postgres,prisma,nginx,redis,githubactions,bash,vim,neovim,git,github,postman&perline=14" />
-  </a>
-
-  <div style="display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="40" width="52" alt="XML logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="40" width="52" alt="Jetpack Compose logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" height="40" width="52" alt="Android logo" />
-  </div>
-  
-</p> 
-
-
-
-
-###
-
-<h3 align="left">🌐 Socials:</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pratik-jadhav-44005a253/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="Linkeden logo" />
-  </a>
-  <a href="https://www.instagram.com/_ppratt__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/1022392296102174740" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/20058872/j-pratik99" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" height="40" width="52" alt="Linkeden logo" />
-  </a>
-</div>
-
-###
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik50&size_weight=0&count_weight=0.5)-->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
