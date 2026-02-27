@@ -14,7 +14,6 @@
 - 🔧 Building backends & pipelines that don't break at 3am 
 - 🎧 And..."Music fuels my coding passion,... vice versa.  
 
-<br>
 
 ### 💻 Tech Stack
 
@@ -22,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,postgres,mongodb,redis,docker,nginx,linux,githubactions,bash,aws,kotlin,androidstudio,gradle,firebase,c,cpp,html,materialui,git,github,vscode,postman,vim,neovim&perline=14" />
 </div>
 
-<br>
+
 
 ### 📌 Currently
 
@@ -30,7 +29,7 @@
 - Improving system design & distributed architecture knowledge  
 - Exploring advanced DevOps workflows
 
-<br>
+
 
 ### 🌍 Connect With Me
 
