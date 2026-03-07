@@ -46,3 +46,9 @@
 <p align="center">
   <i>Build things that scale. Automate what repeats.</i>
 </p>
+
+<!-- <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik50&theme=apprentice" width="66.6%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik50&theme=apprentice" width="32.6%" />
+</p> -->
+
