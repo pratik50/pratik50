@@ -18,7 +18,7 @@
 ### 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,postgres,mongodb,redis,docker,kubernetes,aws,linux,nginx,githubactions,prometheus,grafana,terraform,kotlin,firebase,git,github,vscode,postman,vim&perline=12" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,postgres,mongodb,redis,go,docker,kubernetes,aws,linux,nginx,githubactions,prometheus,grafana,terraform,kotlin,git,github,neovim,vscode,postman&perline=12" />
 </div>
 
 
