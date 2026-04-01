@@ -12,8 +12,8 @@
 - 🧑‍💻 Software Engineer from India 🇮🇳
 - ☁️ Obsessed with scalable systems, clean architecture & DevOps <br>
 - 🔧 Building backends & pipelines that don't break at 3am 
-- 🎧 And..."Music fuels my coding passion,... vice versa.  
-
+- 🌐 Corner of the internet → **[pratikjadhav.me](https://pratikjadhav.me)**
+- ✍️ I write about what I build and Learn → **[pratikjadhav.me/blog](https://pratikjadhav.me/blog)**
 
 ### 💻 Tech Stack
 
