@@ -25,9 +25,9 @@
 
 ### 📌 Currently
 
-- Building production-ready full-stack systems  
+- Building production-ready systems.  
 - Improving system design & distributed architecture knowledge  
-- Exploring advanced DevOps workflows
+- Exploring advanced DevOps and Observability Pipelines.
 
 
 
