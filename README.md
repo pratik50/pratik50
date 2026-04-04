@@ -25,8 +25,7 @@
 
 ### 📌 Currently
 
-- Building production-ready systems.  
-- Improving system design & distributed architecture knowledge  
+- Improving system design & distributed architecture knowledge.
 - Exploring advanced DevOps and Observability Pipelines.
 
 
