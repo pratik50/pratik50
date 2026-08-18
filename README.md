@@ -3,32 +3,32 @@
 </div>
 
 <h1 align="center">Hey 👋 I'm Pratik</h1>
-<h3 align="center">Backend Engineer • DevOps Enthusiast • System Design Learner</h3>
+
+<h3 align="center">
+Software Engineer · Go · Kubernetes · Observability · Open Source
+</h3>
 
 <br>
 
 ### 🧠 About Me
 
-- 🧑‍💻 Software Engineer from India 🇮🇳
-- ☁️ Obsessed with scalable systems, clean architecture & DevOps <br>
-- 🔧 Building backends & pipelines that don't break at 3am 
+- 🧑‍💻 Software Engineer working on cloud-native and observability systems.
+- ⚙️ Working with Go, Kubernetes, Helm, Cloud, and developer tooling.
+- 🔭 Interested in distributed systems, infrastructure, reliability, and observability.
 - 🌐 Corner of the internet → **[pratikjadhav.me](https://pratikjadhav.me)**
-- ✍️ I write about what I build and Learn → **[pratikjadhav.me/blog](https://pratikjadhav.me/blog)**
+- ✍️ I write about Go, Kubernetes, observability, cloud infrastructure, and open source → **[pratikjadhav.me/blog](https://pratikjadhav.me/blog)**
+
+### 🌍 Open Source
+
+- 🔭 Contributing to the **OpenTelemetry & Grafana ecosystems**.
+- 🧩 Contributor to the **OpenTelemetry Ecosystem Explorer**.
+- ☁️ Working professionally on **Parseable**, an open-source observability platform.
 
 ### 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,express,postgres,mongodb,redis,go,docker,kubernetes,aws,linux,nginx,githubactions,prometheus,grafana,terraform,kotlin,git,bash,neovim,vscode,postman&perline=12" />
+<img src="https://skillicons.dev/icons?i=go,kubernetes,docker,aws,linux,kafka,redis,prometheus,grafana,terraform,githubactions,postgres,nodejs,typescript,git,bash,neovim,vscode&perline=9" />
 </div>
-
-
-
-### 📌 Currently
-
-- Improving system design & distributed architecture knowledge.
-- Exploring advanced DevOps and Observability Pipelines.
-
-
 
 ### 🌍 Connect With Me
 
@@ -45,9 +45,3 @@
 <p align="center">
   <i>Build things that scale. Automate what repeats.</i>
 </p>
-
-<!-- <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratik50&theme=apprentice" width="66.6%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratik50&theme=apprentice" width="32.6%" />
-</p> -->
-
